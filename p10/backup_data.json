@@ -1,0 +1,48 @@
+{
+  "barang": [
+    {
+      "id_barang": "B001",
+      "nama": "Laptop ASUS ROG",
+      "harga": 15000000,
+      "stok": 5,
+      "kategori": "Laptop"
+    },
+    {
+      "id_barang": "B002",
+      "nama": "Smartphone Samsung S23",
+      "harga": 12000000,
+      "stok": 10,
+      "kategori": "Smartphone"
+    },
+    {
+      "id_barang": "B003",
+      "nama": "Tablet iPad Air",
+      "harga": 8000000,
+      "stok": 17,
+      "kategori": "Tablet"
+    }
+  ],
+  "pelanggan": [
+    {
+      "id_pelanggan": "ADM001",
+      "nama": "Admin",
+      "email": "admin@toko.com",
+      "no_hp": "0800000000",
+      "alamat": "Toko Elektronik"
+    },
+    {
+      "id_pelanggan": "P001",
+      "nama": "yadi",
+      "email": "yad@email.com",
+      "no_hp": "08123456789",
+      "alamat": "Jl.juanda1"
+    },
+    {
+      "id_pelanggan": "P004",
+      "nama": "apid",
+      "email": "apid@email.cpm",
+      "no_hp": "98790",
+      "alamat": "juanda"
+    }
+  ]
+}
